@@ -20,6 +20,7 @@ class ViewController: UIViewController {
     
     @IBAction func weightSliderChanged(_ sender: UISlider) {
         print(Int(sender.value))
+        // another way
     }
 }
 
