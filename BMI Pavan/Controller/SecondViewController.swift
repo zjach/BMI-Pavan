@@ -14,6 +14,8 @@ class SecondViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        //        Coding a view without Storyboard
+        
         view.backgroundColor = .blue
         
         let label = UILabel()
